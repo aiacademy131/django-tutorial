@@ -1,4 +1,4 @@
-## django tutorial
+## 파이썬/장고(2.1) 튜토리얼
 
 학습에 용이하도록 djangoproject.com 에서 제공하는 django 2.1 버젼 튜토리얼을 단계별로 나누어보았습니다.
 
